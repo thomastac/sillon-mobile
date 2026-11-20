@@ -1,0 +1,1 @@
+var e=[`#7c6cf2`,`#e5734a`,`#2fa67a`,`#d1497b`,`#3b8fd9`,`#c9a227`,`#8a5cc7`,`#2aa3a3`,`#e05555`,`#6b8e23`];function t(t){let n=0;for(let e of t.toLowerCase())n=n*31+e.charCodeAt(0)>>>0;return e[n%e.length]}export{t};
